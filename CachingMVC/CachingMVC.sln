@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingMVC", "CachingMVC\CachingMVC.csproj", "{D70EE102-1990-4D1E-8EFD-80D0F0AF649D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70EE102-1990-4D1E-8EFD-80D0F0AF649D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70EE102-1990-4D1E-8EFD-80D0F0AF649D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70EE102-1990-4D1E-8EFD-80D0F0AF649D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70EE102-1990-4D1E-8EFD-80D0F0AF649D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D172C65-3E53-43AB-A3F5-9ECC2547EAE1}
+	EndGlobalSection
+EndGlobal
